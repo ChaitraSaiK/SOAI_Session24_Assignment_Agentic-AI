@@ -1,4 +1,4 @@
-# Calendar Event Notifier
+# SAgentic AI - Smart Calendar Assistant - AI-Powered Event Notifications
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Enabled-brightgreen)
 ![Gemini LLM](https://img.shields.io/badge/Gemini%20LLM-API-blue)
