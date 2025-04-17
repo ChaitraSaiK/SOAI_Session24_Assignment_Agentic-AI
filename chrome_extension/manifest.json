@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Calendar Event Notifier",
+  "version": "1.0",
+  "description": "Get notifications about your calendar events",
+  "key": "obojicokiaamefojlginlmnligaangcd",
+  "permissions": [
+    "identity",
+    "identity.email",
+    "storage"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*",
+    "https://www.googleapis.com/*",
+    "https://accounts.google.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "oauth2": {
+    "client_id": "251738400858-alemgluqvo3njgd2v9o12eauj674f232.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/calendar.readonly"
+    ]
+  }
+} 
